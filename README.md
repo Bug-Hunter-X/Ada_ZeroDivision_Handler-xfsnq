@@ -1,0 +1,1 @@
+This repository contains an example of an Ada program that demonstrates a common error: division by zero. The initial code attempts to divide by zero without proper error handling, leading to a runtime exception. The solution provides improved error handling to gracefully manage the exception and prevent program crashes.  This is important for creating robust Ada applications.
